@@ -3,8 +3,8 @@
 A simple restaurant ordering system developed using the C++ programming language. This system is designed to simplify online food ordering for Kurger Bing Restaurant customers by providing an easy-to-use platform for browsing menus, placing orders, managing carts, and making payments conveniently.
 
 - **Home Screen**
- ![Screen1](images/screen1.png)
- ![Screen2](images/screen2.png)
+ ![Screen1](images/image1.png)
+ ![Screen2](images/image2.png)
 
 
 ## 🎯 Project Objectives
@@ -43,25 +43,25 @@ A simple restaurant ordering system developed using the C++ programming language
 ## 📷 Screenshots
 
 - **Admin Screen**
- ![Screen3](images/screen3.png)
+ ![Screen3](images/image3.png)
 
 - **Customer Screen**
- ![Screen4](images/screen4.png)
+ ![Screen4](images/image4.png)
 
 - **Ordering Screen**
- ![Screen5](images/screen5.png)
+ ![Screen5](images/image5.png)
 
 - **Menu Screen**
- ![Screen6](images/screen6.png)
+ ![Screen6](images/image6.png)
 
 - **Edit Order Screen**
- ![Screen7](images/screen7.png)
+ ![Screen7](images/image7.png)
 
 - **Payment Screen**
- ![Screen8](images/screen8.png)
+ ![Screen8](images/image8.png)
 
 - **Payment Processing Screen**
- ![Screen9](images/screen9.png)
+ ![Screen9](images/image9.png)
 
 ## 🛠️ Technologies Used
 
